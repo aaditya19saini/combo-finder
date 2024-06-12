@@ -1,2 +1,2 @@
-# combo-finder
-subset np
+# subset np
+
